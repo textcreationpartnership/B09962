@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Act anent the recruting the armies</title>
+            <author>Scotland. Convention of Estates.</author>
+         </titleStmt>
+         <extent>Approx. 11KB of XML-encoded text transcribed from 3 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B09962</idno><idno type="EEBO-CITATION">69648887</idno>
+  <idno type="VID">185050</idno>
+  <idno type="EEBO-PROQUEST">2240865316</idno>
+  
+            <idno type="STC">Wing S1051A</idno>
+            <idno type="STC">ESTC R203708</idno>
+            <idno type="OCLC">69648887</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. B09962)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 185050)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 2885:9)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Act anent the recruting the armies</title>
+                  <author>Scotland. Convention of Estates.</author>
+                  <author>Scotland. Parliament.</author>
+               </titleStmt>
+               <extent>4 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by E. Tyler,</publisher>
+                  <pubPlace>[Edinburgh :</pubPlace>
+                  <date>1646]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Publication data suggested by Wing (2nd ed.).</note>
+                  <note>Reproduction of original in: Henry E. Huntington Library and Art Gallery.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="corporate_name">Scotland. --  Army --  Early works to 1800.</term>
+               <term type="corporate_name">Scotland. --  Army --  Appropriations and expenditures --  Early works to 1800.</term>
+               <term type="geographic_name">Scotland --  History --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-07 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-09 </date>
+            <label>Mona Logarbo </label>Sampled and proofread </change>
+         <change>
+            <date>2014-09 </date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="Act_of_Parliament">
+            <pb n="1" facs="tcp:185050:1"/>
+            <head>Act anent the recruting the Armies.</head>
+            <opener>
+               <dateline>
+                  <date>S. Andrews. February 4. 1646.</date>
+               </dateline>
+            </opener>
+            <p>
+               <seg rend="decorInit">T</seg>He Estates of Parliament now conveened in the fifth Ses<g ref="char:EOLhyphen"/>sion of this first Triennall Parliament, Having upon con<g ref="char:EOLhyphen"/>sideration of the continuing troubles of this Kingdome, and of the condition of their Armies, both at home, and in England, bethought themselves of the duty which in the present conjuncture of affairs they owe unto God in defence of his Truth, against all opposition, and to this Kingdome (whom they re<g ref="char:EOLhyphen"/>present) the maintenance of its Lawes and Liberties, according to the Covenant, Have thought it necessary, that the Armies within this Kingdome and in England, be recruted, strengthened, and inabled, so to prosecute the Warre this ensuing Summer, as by blessing of God upon their endeavours, the long-lasting troubles of this Kingdom may end in an happy and sate Peace; which being so much desired by all good Christians and Countreymen, The Estates of Parliament have reason to be confident of their ready and cheerfull concurrence with their persons and fortunes in the way and mean for attaining the same, whereunto also (albeit Religion were not in hazard) the Kingdomes honour so much interessed, were of it self a motive strong enought to prevail with every true Scottish heart: And therefore have statute and ordained, that any Leavyes formerly appointed by warrant of the Par<g ref="char:EOLhyphen"/>liament, Convention of Estates, or any Committee from them <hi>respe<g ref="char:EOLhyphen"/>ctivè,</hi> or Run-aways from any Regiments, who have returned back to their Shires, and are now lurking in the same, be with all expedition put out and delivered to those Regiments unto which they are assig<g ref="char:EOLhyphen"/>ned by any Acts of Parliament, Convention, or Committee, or from which they are Run-aways, and that there be no neglect in the due execution hereof, The saids Estates Ordaines the Committees of War in ilk Shire <hi>respectivè,</hi> to be carefull herein, as one of the most speciall and necessary points of the trust committed unto them. And because the number of the saids Deficients and Run-aways will not be suffici<g ref="char:EOLhyphen"/>ent to make up the Ten thousand Foot, appointed to be entertained within, and for the service of this Kingdome, and also to strengthen and recrute the Armies in England; They have therefore statute and ordained, that a new Leavye of Foot to be layde on and raised out of the severall Shires and Burghs of this Kingdome, according to such proportions, and for the Recrues of such Regiments as shall be contai<g ref="char:EOLhyphen"/>ned in the List to be made up by the Committee of Estates: And be<g ref="char:EOLhyphen"/>cause upon the speedie and effectuall execution of this Ordinance (as the only probable humane means) so much dependeth all the honour
+<pb n="2" facs="tcp:185050:2"/>and happinesse of this Kingdome, The Estates of Parliament have thought fitting seriously to recommend to the Committees of Warre of the severall Shires, heartily and with publick spirits, over all difficul<g ref="char:EOLhyphen"/>ties, to adde unto the former, this new testimony of their resolutions, to pursue the ends exprest in their Covenant, with their lives, fortunes, and estates, and speedily to deliver their severall proportions of men, to such Officers of the aforesaid Regiments <hi>respectivè,</hi> as shall be appoin<g ref="char:EOLhyphen"/>ted for receiving of the same from them. And further Statutes and Ordains, that the saids number of men appointed to be raised out of the severall Shires and Burghs, be in readinesse, and be delivered be<g ref="char:EOLhyphen"/>twixt and the Tenth day of March next, to such Officers as shall be ap<g ref="char:EOLhyphen"/>pointed by the Colonels <hi>respectivè</hi> foresaids for receiving of the same. And that betwixt and the said Tenth day of March, the Committees of Warre of the severall Shires, shall send some of their own number, ful<g ref="char:EOLhyphen"/>ly instructed, to give an accompt of their diligence, both in putting out this new Leavy, and their former Deficients, unto the Committee of Estates.</p>
+            <closer>
+               <signed>Alex. Gibsone Cler. Registri.</signed>
+            </closer>
+         </div>
+         <div type="response_to_Parliamentary_act">
+            <opener>
+               <dateline>S. Andrews. <date>February 20. 1646.</date>
+               </dateline>
+            </opener>
+            <p>
+               <seg rend="decorInit">T</seg>He Committee of Estates taking to their serious conside<g ref="char:EOLhyphen"/>ration ths condition of the Forces within and without this Kingdome, imployed for defence of Religion, and carrying on the Warre against the enemies thereof, and how necessa<g ref="char:EOLhyphen"/>ry it is that the Forces be strengthened and put in an present posture, for prosecuting of this great Work, against all opposition, together with the List of a new Leavy remitted to them by the Estates of Par<g ref="char:EOLhyphen"/>liament upon the fourth day of February instant, whereby the conside<g ref="char:EOLhyphen"/>ration of the number of the said Leavy, and application thereof, is by the Parliament remitted to the said Committee: and therewith taking to consideration the condition of the severall Shires within this King<g ref="char:EOLhyphen"/>dome, and the necessity of raising the severall proportions of Foot after mentioned, out of the severall Shires, in manner, and to the effect after specified, Have Ordained, and Ordaines the number of Eight hun<g ref="char:EOLhyphen"/>dreth Foot to be forthwith raised out of the Sheriffdoms of Roxburgh and Selkirk, for recruting the Earle of Louthian, Master of Cranstoun, and Colonell <hi>Scots</hi> Regiments. Out of the Sheriffdome of Berwick six hundreth, for recruting the Laird of Wedderburne, and Colonell <hi>Lodovick Leslies</hi> Regiments, to be divided according to the former pro<g ref="char:EOLhyphen"/>portions which each of them had in their first Leavy, when the Laird of Aytoun lifted his Regiment. Out of the Sheriffdome of Hading<g ref="char:EOLhyphen"/>toun three hundreth, for recruting the Lord Humbies Regiment, which with three hundreth formerly put out by that Shire over and above their just proportion, makes six hundreth for the present Leavy. Out of the Sheriffdome of Edinburgh six hundreth, for recruting the Ma<g ref="char:EOLhyphen"/>ster of Yesters Regiment. Out of the Burgh of Edinburgh six hun<g ref="char:EOLhyphen"/>dreth,
+<pb n="3" facs="tcp:185050:2"/>for recruting Colonell <hi>Raes</hi> Regiment, which proportion to be levied out of the said Sheriffdome and Burgh of Edinburgh, is super<g ref="char:EOLhyphen"/>ceeded till the next meeting of the Committee of Estates at Linlith<g ref="char:EOLhyphen"/>gow. At which time the Gentlemen of that Shire, and Magistrates of that Burgh, are ordained to be present, and heard upon their losses by the Plague, that consideration may be had thereof, and course taken thereanent. Out of the Sheriffdome of Linlithgow, two hundreth threescore two, for recruting the Earle of Callanders Regiment. Out of the Sheriffdome of Drumfreis six hundreth, for recruting of Kelhead and Colonell <hi>Er kines</hi> Regiments. Out of the Sheriffdom of Wigtoun and Stewartrie of Kircudbright six hundreth, for recruting Colonell <hi>Stewart,</hi> and the Viscount of Kenmores Regiments equally. Out of the Sheriffdome of Air and Ranfrew eight hundreth, for recruting the Earle of Cassils, and Lord Chancellours Regiments equally, according to the bounds of their former divisions. Out of the Sheriffdome of La<g ref="char:EOLhyphen"/>nerk six hundreth, for recruting the Generall of the Artilleries Regi<g ref="char:EOLhyphen"/>ment, whereof the Committee thinks fit to deduce two hundreth▪ in regard of their over-charge. Out of the Sheriffdome of Stirling and Clakmannan foure hundreth ninetie nine, whereof an hundreth for re<g ref="char:EOLhyphen"/>cruting the Earle of Callanders Regiment, and the rest for recruting the Lord Levingstouns Regiment. Out of the Presbyterie of Dum<g ref="char:EOLhyphen"/>fermling (the rest of the Sheriffdume of Fyffe being eximed by reason of their grear losses formerly sustained) two hundreth for recruting the Earle of Dumfermlings Regiment. Out of the half of the Sheriff<g ref="char:EOLhyphen"/>dome of Perth foure hundreth, for recruting the Laird of Freelands Regiment, but prejudice of former Companies appointed to be levied out of that Shire, for recruting of the Laird of Lawres Regiment, and the Marques of Argyles new Regiment. Out of the Sheriffdome of Forfar seven hundreth and fifty, for recruting of the Lord Cowper, Colonell <hi>Mauld,</hi> and Lieutenant-Generall <hi>Bailies</hi> Regiments. Out of the Sheriffdome of Dumbartan and Bute three hundreth, to be joy<g ref="char:EOLhyphen"/>ned to the Companies of my Lord Argyles Regiment, that are in Ber<g ref="char:EOLhyphen"/>wick, Dundee, and Glasgow. Out of the Sheriffdome of Kincardin, and the Earle Marshals part of Aberdeen six hundreth, for recruting the Earle Marshals Regiment. Out of the rest of Aberdeene and She<g ref="char:EOLhyphen"/>riffdome of Bamff eight hundreth. to be equally divided betwixt <hi>Lud<g ref="char:EOLhyphen"/>quhanre;</hi> and Colonell <hi>Forbes,</hi> for making up their Regiments; with this provision, that if betwixt and the <gap reason="blank" extent="1 span">
+                  <desc>〈1 span left blank〉</desc>
+               </gap> day of <gap reason="blank" extent="1 word">
+                  <desc> _____ </desc>
+               </gap> each of their Regiments be not at, or above the strength of six hundreth men, the samine shal be imployed for recruting and strengthening other Regiments. Out of the Sheriffdomes of Elgin, Murray, and that part of Innernesse, on this side of the Nesse, five hundreth and fifty, whereof foure hundreth for the Garrisons of Dundee, Monros, and Perth, the rest for recruting of <hi>Sir James Lumsdens</hi> Regiment. Out of the Earle of Seaforth and Lord Lovats division of Innernesse, five hundreth for recruting the Earle of Seaforths Regiment, or otherwise to be dispose of, as the Committee of Estates shall think fit. Out of the Earle of Sutherlands Division of Innernesse and Caitnesse, eight hundreth, for
+<pb n="4" facs="tcp:185050:3"/>recruting the Earle of Sutherland and Lord Sinclars Regiments equal<g ref="char:EOLhyphen"/>ly. Out of the Sheriffdome of Peebles, two hundreth, for recruting the Master of Yesters Regiment. Out of the Sheriffdome of Ork<g ref="char:EOLhyphen"/>nay five hundreth, for recruting Scottiscraigs Regiment. And for re<g ref="char:EOLhyphen"/>cruting the Lord Levingstouns Regiment, the remainder Run-awayes and Deficients of the Laird of Buchanans Regiment in Stirling Shire, together with that Company of Buchanans Regiment now in Inner<g ref="char:EOLhyphen"/>nesse, to be brought out and joyned with the Lord Levingstouns Regi<g ref="char:EOLhyphen"/>ment, how soon the Recruits of the Laird of Laweres Regiment shall be brought to Innernesse. And for the better and more speedy rai<g ref="char:EOLhyphen"/>sing of the saids Leavies, The Committee of Estates Ordains the Committees of War of each Shire, to be assisting to the Officers of each Regiment, appointed to receive the saids Recruits, as they shall come and require the samine. And Ordaines the saids Committees of War, to go effectually about the drawing together of the saids Lea<g ref="char:EOLhyphen"/>vies within their severall Shires, as they will be answerable to the Committee of Estates or Parliament, and to give an accompt of their diligence and proceeding herein to the Committee of Estates, betwixt and the Tenth day of March next to come, that thereafter such course may be taken with Deficients in this present Leavy, as the Committee of Estates shall think fit.</p>
+            <closer>
+               <signed>
+                  <hi>Loudoun</hi> Cancellarius. 1. P. D. Com.</signed>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>
